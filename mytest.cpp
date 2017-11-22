@@ -1,5 +1,7 @@
 #include<stdio.h>
-
+/*
+	copyright [test]
+*/
 int main() {
 
   printf("1\n");
