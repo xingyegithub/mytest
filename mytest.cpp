@@ -10,5 +10,6 @@ int main() {
 	
   printf("hello world\n");
 
+  //diff 测试
   return 0;
 }
